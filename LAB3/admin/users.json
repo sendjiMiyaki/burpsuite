@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "username": "YANG Jungwon",
+        "password": "engene3000",
+        "email": "jungwon@example.com",
+        "status": "Active",
+        "admin" : true
+    },
+    {
+        "id": 2,
+        "username": "LEE Heeseung",
+        "email": "heeseung@example.com",
+        "status": "Inactive",
+        "USER_ID": "engenes-namja",
+        "password": "I_amSick",
+        "admin" : false
+    },
+    {
+        "id": 3,
+        "username": "PARK Jongsaeng",
+        "email": "jay@example.com",
+        "status": "Active",
+        "USER_ID": "en_classyBoy",
+        "password": "jongDicaprio",
+        "admin" : false
+    },
+    {
+        "id": 4,
+        "username": "SIM Jaehyun",
+        "email": "jake@example.com",
+        "status": "Active",
+        "USER_ID": "NikisFavHyung",
+        "password": "Layla__IsBetter_thanGaeul!!",
+        "admin" : false
+    },
+    {
+        "id": 5,
+        "username": "PARK Sunghoon",
+        "email": "sunghoon@example.com",
+        "status": "Pending",
+        "USER_ID": "Ice__PrincE",
+        "password": "IaMhandsome_G_U_Y",
+        "admin" : false
+    },
+    {
+        "id": 6,
+        "username": "KIM Sunoo",
+        "email": "sunoo@example.com",
+        "status": "Active",
+        "USER_ID": "mirror_Boy",
+        "password": "DdEONu_nim",
+        "admin" : false
+    },
+    {
+        "id": 7,
+        "username": "NISHIMURA Niki",
+        "email": "niki@example.com",
+        "status": "Inactive",
+        "USER_ID": "CHOOM_ace",
+        "password": "enhyPENsHYUNG",
+        "admin" : false
+    },
+    {
+        "id": 8,
+        "username": "ENGENE",
+        "email": "engene@example.com",
+        "status": "Active",
+        "USER_ID": "deluLU",
+        "password": "en_sup>>",
+        "admin" : false
+    },
+    {
+        "username": "abc",
+        "password": "abc",
+        "email": "jay@example.com",
+        "status": "Active",
+        "USER_ID": "en_classyBoy",
+        "admin" : false
+        
+    }
+]
